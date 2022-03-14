@@ -43,6 +43,7 @@ header{
     margin: 15px;
     width: 350px;
     box-shadow: 0 10px 20px rgb(167, 160, 160);
+    border-radius: 5px;
 }
 h2{
     margin: 0;
